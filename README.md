@@ -207,6 +207,5 @@ Proyecto_Final/
 ├── scripts/
 │   ├── EDA.R
 │   └── 04_analisis_final.R
-├── Proyecto C.R
 │   
 └── README.md
